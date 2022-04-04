@@ -1,0 +1,10 @@
+soynlp
+pandas
+gensim
+xlrd
+tensorflow
+seaborn
+scikit-learn
+datasets
+transformers
+torch
